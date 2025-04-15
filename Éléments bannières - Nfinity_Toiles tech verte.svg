@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Texte" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59.021 76.626">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3bffa0;
+      }
+
+      .cls-2 {
+        stroke: url(#Dégradé_sans_nom_12);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: .149px;
+      }
+
+      .cls-3 {
+        stroke: url(#Dégradé_sans_nom_12-10);
+      }
+
+      .cls-4 {
+        stroke: url(#Dégradé_sans_nom_12-11);
+      }
+
+      .cls-5 {
+        stroke: url(#Dégradé_sans_nom_12-12);
+      }
+
+      .cls-6 {
+        stroke: #3bffa0;
+      }
+
+      .cls-7 {
+        stroke: url(#Dégradé_sans_nom_12-4);
+      }
+
+      .cls-8 {
+        stroke: url(#Dégradé_sans_nom_12-2);
+      }
+
+      .cls-9 {
+        stroke: url(#Dégradé_sans_nom_12-8);
+      }
+
+      .cls-10 {
+        stroke: url(#Dégradé_sans_nom_12-3);
+      }
+
+      .cls-11 {
+        stroke: url(#Dégradé_sans_nom_12-9);
+      }
+
+      .cls-12 {
+        stroke: url(#Dégradé_sans_nom_12-7);
+      }
+
+      .cls-13 {
+        stroke: url(#Dégradé_sans_nom_12-6);
+      }
+
+      .cls-14 {
+        stroke: url(#Dégradé_sans_nom_12-5);
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_12" data-name="Dégradé sans nom 12" x1="-18.204" y1="-490.836" x2="45.393" y2="-490.836" gradientTransform="translate(0 -445.424) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebebf2" stop-opacity="0"/>
+      <stop offset=".2" stop-color="#818198" stop-opacity=".23"/>
+      <stop offset=".51" stop-color="#06052e" stop-opacity=".5"/>
+      <stop offset=".72" stop-color="#434263" stop-opacity=".37"/>
+      <stop offset="1" stop-color="#ebebf2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Dégradé_sans_nom_12-2" data-name="Dégradé sans nom 12" x1="-25.007" y1="-497.639" x2="38.59" y2="-497.639" xlink:href="#Dégradé_sans_nom_12"/>
+    <linearGradient id="Dégradé_sans_nom_12-3" data-name="Dégradé sans nom 12" x1="-11.397" y1="-484.029" x2="52.199" y2="-484.029" xlink:href="#Dégradé_sans_nom_12"/>
+    <linearGradient id="Dégradé_sans_nom_12-4" data-name="Dégradé sans nom 12" x1="-4.591" y1="-477.222" x2="59.006" y2="-477.222" xlink:href="#Dégradé_sans_nom_12"/>
+    <linearGradient id="Dégradé_sans_nom_12-5" data-name="Dégradé sans nom 12" x1="-31.814" y1="-504.445" x2="31.783" y2="-504.445" xlink:href="#Dégradé_sans_nom_12"/>
+    <linearGradient id="Dégradé_sans_nom_12-6" data-name="Dégradé sans nom 12" x1="-38.621" y1="-511.252" x2="24.976" y2="-511.252" xlink:href="#Dégradé_sans_nom_12"/>
+    <linearGradient id="Dégradé_sans_nom_12-7" data-name="Dégradé sans nom 12" x1="-14817.526" y1="-4236.164" x2="-14753.929" y2="-4236.164" gradientTransform="translate(-4229.356 -14740.316) rotate(-90) scale(1 -1)" xlink:href="#Dégradé_sans_nom_12"/>
+    <linearGradient id="Dégradé_sans_nom_12-8" data-name="Dégradé sans nom 12" x1="-14824.329" y1="-4242.968" x2="-14760.732" y2="-4242.968" gradientTransform="translate(-4229.356 -14740.316) rotate(-90) scale(1 -1)" xlink:href="#Dégradé_sans_nom_12"/>
+    <linearGradient id="Dégradé_sans_nom_12-9" data-name="Dégradé sans nom 12" x1="-14810.719" y1="-4229.359" x2="-14747.123" y2="-4229.359" gradientTransform="translate(-4229.356 -14740.316) rotate(-90) scale(1 -1)" xlink:href="#Dégradé_sans_nom_12"/>
+    <linearGradient id="Dégradé_sans_nom_12-10" data-name="Dégradé sans nom 12" x1="-14803.913" y1="-4222.552" x2="-14740.316" y2="-4222.552" gradientTransform="translate(-4229.356 -14740.316) rotate(-90) scale(1 -1)" xlink:href="#Dégradé_sans_nom_12"/>
+    <linearGradient id="Dégradé_sans_nom_12-11" data-name="Dégradé sans nom 12" x1="-14831.136" y1="-4249.775" x2="-14767.539" y2="-4249.775" gradientTransform="translate(-4229.356 -14740.316) rotate(-90) scale(1 -1)" xlink:href="#Dégradé_sans_nom_12"/>
+    <linearGradient id="Dégradé_sans_nom_12-12" data-name="Dégradé sans nom 12" x1="-14837.943" y1="-4256.58" x2="-14774.346" y2="-4256.58" gradientTransform="translate(-4229.356 -14740.316) rotate(-90) scale(1 -1)" xlink:href="#Dégradé_sans_nom_12"/>
+  </defs>
+  <line class="cls-2" x1="-18.152" y1="13.666" x2="45.34" y2="77.158"/>
+  <line class="cls-8" x1="-24.955" y1="20.469" x2="38.537" y2="83.961"/>
+  <line class="cls-10" x1="-11.345" y1="6.859" x2="52.147" y2="70.351"/>
+  <line class="cls-7" x1="-4.538" y1=".053" x2="58.954" y2="63.544"/>
+  <line class="cls-14" x1="-31.761" y1="27.276" x2="31.73" y2="90.767"/>
+  <line class="cls-13" x1="-38.568" y1="34.082" x2="24.924" y2="97.574"/>
+  <line class="cls-12" x1="-24.937" y1="77.158" x2="38.552" y2="13.666"/>
+  <line class="cls-9" x1="-18.134" y1="83.961" x2="45.358" y2="20.469"/>
+  <line class="cls-11" x1="-31.743" y1="70.351" x2="31.748" y2="6.859"/>
+  <line class="cls-3" x1="-38.55" y1="63.544" x2="24.942" y2=".053"/>
+  <line class="cls-4" x1="-11.327" y1="90.767" x2="52.165" y2="27.276"/>
+  <line class="cls-5" x1="-4.52" y1="97.574" x2="58.968" y2="34.082"/>
+  <circle class="cls-1" cx="3.395" cy="21.599" r="1.532"/>
+  <circle class="cls-1" cx="30.618" cy="62.432" r="1.532"/>
+  <circle class="cls-1" cx="23.812" cy="28.406" r="1.083"/>
+  <circle class="cls-1" cx="57.74" cy="48.92" r=".768"/>
+  <polyline class="cls-6" points="3.395 21.599 17.008 35.209 23.812 28.406 51.035 55.629"/>
+  <polyline class="cls-6" points="10.202 28.406 -10.215 48.822 3.362 62.432 -3.412 69.239"/>
+  <polyline class="cls-6" points="57.74 48.92 37.425 69.239 30.618 62.432"/>
+</svg>

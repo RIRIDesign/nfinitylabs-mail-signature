@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Éléments_graphiques" data-name="Éléments graphiques" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #06052d;
+        stroke-miterlimit: 10;
+        stroke-width: .238px;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="5.02" cy="4.659" r="4.54"/>
+  <ellipse class="cls-1" cx="5.079" cy="4.659" rx="2.27" ry="4.54"/>
+  <line class="cls-1" x1=".321" y1="4.659" x2="9.56" y2="4.659"/>
+  <line class="cls-1" x1=".965" y1="2.623" x2="9.066" y2="2.623"/>
+  <line class="cls-1" x1=".891" y1="6.545" x2="9.179" y2="6.545"/>
+  <line class="cls-1" x1="5.02" y1=".119" x2="5.02" y2="9.199"/>
+</svg>
